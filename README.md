@@ -1,3 +1,3 @@
 # youtube-auto-uploader
 
-A command line based automatic video uploader made with Selenium
+A command line based automatic YouTube video uploader made with Selenium
